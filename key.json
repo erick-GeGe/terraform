@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "axial-life-371817",
+  "private_key_id": "0dfd507e869067ce284f2ed960a1d9a27e76335a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD5UGqYBN5P4e4x\nlqU9hA4J4/9bt4/QkbYK67fw93JraM0kEFqm6Gp/iZwiLOmJKqrjAIPb0Hv1KKTg\nMxBflnB3mUIZL7PdCzcVfU4wMCEXpOEokEdY8QYYN43ucIB36BqgvM4JggoXM+Mv\n5kmj8GhngrX2YIFAO1mYFwZgwFXN37JpqQSK++L8R03v6fjo3RvQ84J/Y6jEh7QH\nkvy5vVtjWBH7Z1OHMa4TnXrltJAbPidxqHoU74n4zgIgJr0al6Ou+LvXf2HNIlAV\nKPOB1d1jEn96HIKvFRKjSJaVQcjvIhM9wgnD06R4+fudLor7LrzbUK+WYtGJ8LxB\n3z6yxuI3AgMBAAECggEAAUR145j0El7j1EUKSQJGBKnaj0+jFQcwmuSbi5zjwYUH\ntJ0QAOo3ObfBifDwLP4rs+S5nDahSAacCUxpKGXo43VtfxhIJ0xadtWraJZODMM4\npnlOoOFKISRjKH5SQN8hXNt+MVEua54cE7nCz75goX9qHRBc3S6QDt8LGBcnjdjd\n4JTEaRhUF1EyDr9c1iGjwRfOyoN7FEMKeQ5tXrhDtsTzX1s7j4MDPGosgnET4ia1\nZSTLkYw8/aRnYSSJMIZlqgHHnwvLUYHLrojzhaBd6+5cHVD6W/9PfJS+dj1eL1a+\nqZm09Gw00syhTVPUzrMDDSjTuOpQ+T9aW1WNNhIONQKBgQD9Z5VH+SFRTj8xoTsy\n1W0gG0JgaZuZcrYLsSrhkZnzoLeXNWQqtO1xv/t4/kF+QW9nvvyxcql9v8sBdM3M\n3cxxV571gGvQfFeWfqID02ny/TfnFWin0Lwo38aYOpMwrccE4nEdNjbqNeQ2lCF4\nQWahk0ouSJrwBAAIBojiykPxdQKBgQD73huu2DvBNSzVRoxCjwmerz21Xi9WFKPi\n6oaDi0jZ1tzRG9zN1g1cp5WD7ahZxmY2htrgUXxRNogLZBSuXaO8VwJ28joXS5Tr\nyowD2xK/AuZ4Xr2UtV1HlwU56qDzJmNhE7Nc5NP9fcYp+4B7tvmaUTYbkBaY/W3e\n3IMlg+eDewKBgFI1IXPI+asT1GJ4aOkT3iQVU9JNUIJWeYKPhlbJUoV79TNjycwl\nCAbn/mABNCQOfGLOzdGPXjcCWoxtZTp6FhILF/GTKObo/8095beSBYQj69fW1S3k\nBLbJ6faGwit/pNoL0CBm7yfKNfAS3EzUAsSWMPGU8la9JXl1DUFt1t7lAoGBAMY8\nlNFTBAUX00eyFSc16b5p80nS7bL03+Dz8heLAzXhtT8ojOu9dBrfFAEYhw7R5xU3\nowI3YH+TShSdGuH6dasBWMFB+ZLoPDgx3W4TeXe50qge+VwYO2jjZoulLjTym/mG\nRf/xYyD7Y4Mbno7A/0gEb2/WQtL7dQSZzucyIIANAoGBAMQlbCNHxX79ftuIXPKW\nUah1SNlseweRu2JqrH3s2oTyNzgjWDsDdgbYBquhw7rLuzbqwPNTWnotHNcB+b71\nFjqVek+wC9SUhkVreno8+5PnxeE8s2o9NMS088ICAjP0sjXqagIPSdXDD0YhTj+A\nLOCcsCJSDgdaBAJbnihlED+k\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@axial-life-371817.iam.gserviceaccount.com",
+  "client_id": "100895390815129116881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40axial-life-371817.iam.gserviceaccount.com"
+}
